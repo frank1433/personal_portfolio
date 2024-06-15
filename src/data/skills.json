@@ -12,12 +12,28 @@
     "imageSrc": "skills/react.png"
   },
   {
+    "title": "Angular",
+    "imageSrc": "skills/angular.png"
+  },
+  {
     "title": "Node",
     "imageSrc": "skills/node.png"
   },
   {
     "title": "GraphQL",
     "imageSrc": "skills/graphql.png"
+  },
+  {
+    "title": "Redux",
+    "imageSrc": "skills/redux.png"
+  },
+  {
+    "title": "NextJs",
+    "imageSrc": "skills/nextjs.png"
+  },
+  {
+    "title": "Python",
+    "imageSrc": "skills/python.png"
   },
   {
     "title": "MongoDB",

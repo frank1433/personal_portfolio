@@ -1,26 +1,18 @@
 [
   {
-    "title": "Project A",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "title": "ML-powered App",
+    "imageSrc": "projects/ml.png",
+    "description": "This is React and Node project. After client uses the microphpone to record a piece of audio, @Xenova/transformer is brought in to transcribe the audio to text then translate to certain language.",
+    "skills": ["React", "Node", "@Xenova/transformer"],
+    "demo": "https://free-rosetta.netlify.app",
+    "source": "https://github.com/frank1433/free-rosetta"
   },
   {
-    "title": "Project B",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node", "Sass"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
-  },
-  {
-    "title": "Project C",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "title": "Admin Dashboard App",
+    "imageSrc": "projects/dashboard.jpeg",
+    "description": "This is a project developed by NextJs and MongoDB, backed by Auth0 to authorize and authenticate admin and client to access different resources. Try it with username:'test1', password:'1234' ",
+    "skills": ["React", "NextJs", "MongoDB", "Sass"],
+    "demo": "https://next-admin-eight-lyart.vercel.app/dashboard",
+    "source": "https://github.com/frank1433/next-admin"
   }
 ]

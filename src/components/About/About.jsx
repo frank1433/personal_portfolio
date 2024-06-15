@@ -9,7 +9,7 @@ export const About = () => {
       <h2 className={styles.title}>About</h2>
       <div className={styles.content}>
         <img
-          src={getImageUrl("about/aboutImage.png")}
+          src={getImageUrl("about/coding.jpeg")}
           alt="Me sitting with a laptop"
           className={styles.aboutImage}
         />
@@ -19,8 +19,8 @@ export const About = () => {
             <div className={styles.aboutItemText}>
               <h3>Frontend Developer</h3>
               <p>
-                I'm a frontend developer with experience in building responsive
-                and optimized sites
+                I'm a frontend developer with great experience in building responsive SPA
+                and optimized sites' performance. Also good at streamlining the frontend development procedure.
               </p>
             </div>
           </li>
@@ -29,8 +29,7 @@ export const About = () => {
             <div className={styles.aboutItemText}>
               <h3>Backend Developer</h3>
               <p>
-                I have experience developing fast and optimised back-end systems
-                and APIs
+                I have experience in developing Restful APIs, GraphQL backed by SQL and NoSQL.
               </p>
             </div>
           </li>
@@ -39,8 +38,7 @@ export const About = () => {
             <div className={styles.aboutItemText}>
               <h3>UI Designer</h3>
               <p>
-                I have designed multiple landing pages and have created design
-                systems as well
+                I have designed multiple composite UI components such as data grid and multi-step forms
               </p>
             </div>
           </li>

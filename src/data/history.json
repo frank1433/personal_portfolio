@@ -4,7 +4,7 @@
     "organisation": "Optum",
     "startDate": "June, 2022",
     "endDate": "Present",
-    "experiences": ["Worked React, Node and Restful Api"],
+    "experiences": ["Worked React, Node and Restful Api", "Worked on monorepo and docker"],
     "imageSrc": "history/optum.png"
   },
   {
@@ -23,7 +23,7 @@
     "experiences": [
       "Worked on Angular and Python",
       "Worked on component library",
-      "create UI components"
+      "Created UI components"
     ],
     "imageSrc": "history/code.png"
   }

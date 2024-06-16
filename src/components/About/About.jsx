@@ -20,7 +20,7 @@ export const About = () => {
               <h3>Frontend Developer</h3>
               <p>
                 I'm a frontend developer with great experience in building responsive SPA
-                and optimized sites' performance. Also good at streamlining the frontend development procedure.
+                and optimizing sites' performance. Also good at streamlining the frontend development procedure.
               </p>
             </div>
           </li>

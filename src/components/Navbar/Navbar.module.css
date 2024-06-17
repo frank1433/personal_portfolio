@@ -35,8 +35,12 @@
 .menuItems a {
   font-size: 25px;
   color: var(--color-text);
-  text-decoration: none;
+  transition: all 0.5ms ease;
+  &:hover{
+    scale: 1.5;
+  }
 }
+
 
 @media screen and (max-width: 830px) {
   .navbar {

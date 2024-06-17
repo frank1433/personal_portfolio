@@ -35,10 +35,11 @@
 .menuItems a {
   font-size: 25px;
   color: var(--color-text);
-  transition: all 0.5ms ease;
-  &:hover{
-    scale: 1.5;
-  }
+  text-decoration: none;
+  transition: transform .2ms ease;
+}
+.menuItems a:hover{
+  transform: scale(2);
 }
 
 

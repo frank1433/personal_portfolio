@@ -12,8 +12,9 @@ export const ProjectCard = ({
         src={getImageUrl(imageSrc)}
         alt={`Image of ${title}`}
         className={styles.image}
+        width="300" height="300"
       />
-      <h3 className={styles.title}>{title}</h3>
+      <h2 className={styles.title}>{title}</h2>
       <p className={styles.description}>{description}</p>
       <ul className={styles.skills}>
         {skills.map((skill, id) => {

@@ -1,8 +1,8 @@
 [
   {
-    "title": "ML-powered App",
+    "title": "Free Rosetta",
     "imageSrc": "projects/ml.png",
-    "description": "This is React and Node project. After client uses the microphpone to record a piece of audio, @Xenova/transformer is brought in to transcribe the audio to text then translate to certain language.",
+    "description": "Free_Rosetta is a suite of ML tools to transcribe speech to text, then translate to other language. Instead of processing ML job in backend, I brought @Xenova/transformer to process tasks in frontend.",
     "skills": ["React", "Node", "@Xenova/transformer"],
     "demo": "https://free-rosetta.netlify.app",
     "source": "https://github.com/frank1433/free-rosetta"
@@ -10,9 +10,17 @@
   {
     "title": "Admin Dashboard App",
     "imageSrc": "projects/dashboard.jpeg",
-    "description": "This is a project developed by NextJs and MongoDB, backed by Auth0 to authorize and authenticate admin and client to access different resources. Try it with username:'test1', password:'1234' ",
-    "skills": ["React", "NextJs", "MongoDB", "Sass"],
+    "description": "An Admin dashboard displays users and products info, backed by Auth0 to authorize and authenticate admin and client to access different resources. Try it with username:'test1', password:'1234' ",
+    "skills": ["React", "NextJs", "Tailwind", "MongoDB", "Sass"],
     "demo": "https://next-admin-eight-lyart.vercel.app/dashboard",
     "source": "https://github.com/frank1433/next-admin"
+  },
+  {
+    "title": "Game Hub App",
+    "imageSrc": "projects/game.jpg",
+    "description": "Game Hub App shows popular games info, backed by Rawg.io. User could interact with backend information",
+    "skills": ["React", "Chukra UI", "Sass"],
+    "demo": "https://game-hub-alpha-gold.vercel.app/",
+    "source": "https://github.com/frank1433/game_hub"
   }
 ]
